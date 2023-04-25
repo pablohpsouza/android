@@ -1,0 +1,45 @@
+body{
+    background-color: rgba(240, 248, 255, 0);
+    text-align: center;
+
+}
+header{
+    background-color: hotpink;
+}
+.titulo{
+    text-align: center;
+    color: black;
+}
+.sub{
+    background-color: hotpink;
+    text-align: center;
+}
+
+nav{
+   border-radius: 5px;
+    color: black;
+    
+}
+.list{
+    background-color: blueviolet;
+    border-radius: 5px;
+    
+
+}
+h2{
+    background-color: rgb(245, 140, 193);
+    
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    text-align: center;
+}
+h1{
+    text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: hotpink;
+}
+iframe{
+    text-align: center;
+}
